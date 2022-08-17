@@ -1,0 +1,16 @@
+C:\Users\Chua Cheng Han\Desktop\NYP\avp\assignment\obj\Debug\net5.0\assignment.csproj.AssemblyReference.cache
+C:\Users\Chua Cheng Han\Desktop\NYP\avp\assignment\obj\Debug\net5.0\assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chua Cheng Han\Desktop\NYP\avp\assignment\obj\Debug\net5.0\assignment.AssemblyInfoInputs.cache
+C:\Users\Chua Cheng Han\Desktop\NYP\avp\assignment\obj\Debug\net5.0\assignment.AssemblyInfo.cs
+C:\Users\Chua Cheng Han\Desktop\NYP\avp\assignment\obj\Debug\net5.0\assignment.csproj.CoreCompileInputs.cache
+C:\Users\Chua Cheng Han\Desktop\NYP\avp\assignment\bin\Debug\net5.0\assignment.exe
+C:\Users\Chua Cheng Han\Desktop\NYP\avp\assignment\bin\Debug\net5.0\assignment.deps.json
+C:\Users\Chua Cheng Han\Desktop\NYP\avp\assignment\bin\Debug\net5.0\assignment.runtimeconfig.json
+C:\Users\Chua Cheng Han\Desktop\NYP\avp\assignment\bin\Debug\net5.0\assignment.runtimeconfig.dev.json
+C:\Users\Chua Cheng Han\Desktop\NYP\avp\assignment\bin\Debug\net5.0\assignment.dll
+C:\Users\Chua Cheng Han\Desktop\NYP\avp\assignment\bin\Debug\net5.0\ref\assignment.dll
+C:\Users\Chua Cheng Han\Desktop\NYP\avp\assignment\bin\Debug\net5.0\assignment.pdb
+C:\Users\Chua Cheng Han\Desktop\NYP\avp\assignment\obj\Debug\net5.0\assignment.dll
+C:\Users\Chua Cheng Han\Desktop\NYP\avp\assignment\obj\Debug\net5.0\ref\assignment.dll
+C:\Users\Chua Cheng Han\Desktop\NYP\avp\assignment\obj\Debug\net5.0\assignment.pdb
+C:\Users\Chua Cheng Han\Desktop\NYP\avp\assignment\obj\Debug\net5.0\assignment.genruntimeconfig.cache

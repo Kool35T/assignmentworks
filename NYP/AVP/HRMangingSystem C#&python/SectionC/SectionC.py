@@ -1,0 +1,1 @@
+print(__import__("functools").reduce(lambda a,b: a+float(b[-1]) * 0.85, filter(lambda x: (x[7] == "FullTime") + (int(x[3].split("/")[-1]) > 1995 ) == 2, map(lambda x: x.split("|"), open("HRMasterlist.txt", "r").read().split("\n"))), 0))

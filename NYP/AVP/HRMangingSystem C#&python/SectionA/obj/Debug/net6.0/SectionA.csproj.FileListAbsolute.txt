@@ -1,0 +1,15 @@
+E:\NYP\avp\assignment2\SectionA\bin\Debug\net6.0\SectionA.exe
+E:\NYP\avp\assignment2\SectionA\bin\Debug\net6.0\SectionA.deps.json
+E:\NYP\avp\assignment2\SectionA\bin\Debug\net6.0\SectionA.runtimeconfig.json
+E:\NYP\avp\assignment2\SectionA\bin\Debug\net6.0\SectionA.dll
+E:\NYP\avp\assignment2\SectionA\bin\Debug\net6.0\SectionA.pdb
+E:\NYP\avp\assignment2\SectionA\obj\Debug\net6.0\SectionA.csproj.AssemblyReference.cache
+E:\NYP\avp\assignment2\SectionA\obj\Debug\net6.0\SectionA.GeneratedMSBuildEditorConfig.editorconfig
+E:\NYP\avp\assignment2\SectionA\obj\Debug\net6.0\SectionA.AssemblyInfoInputs.cache
+E:\NYP\avp\assignment2\SectionA\obj\Debug\net6.0\SectionA.AssemblyInfo.cs
+E:\NYP\avp\assignment2\SectionA\obj\Debug\net6.0\SectionA.csproj.CoreCompileInputs.cache
+E:\NYP\avp\assignment2\SectionA\obj\Debug\net6.0\SectionA.dll
+E:\NYP\avp\assignment2\SectionA\obj\Debug\net6.0\refint\SectionA.dll
+E:\NYP\avp\assignment2\SectionA\obj\Debug\net6.0\SectionA.pdb
+E:\NYP\avp\assignment2\SectionA\obj\Debug\net6.0\SectionA.genruntimeconfig.cache
+E:\NYP\avp\assignment2\SectionA\obj\Debug\net6.0\ref\SectionA.dll
